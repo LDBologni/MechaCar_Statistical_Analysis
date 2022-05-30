@@ -42,7 +42,7 @@ Lot 1 and Lot 2 shows that the Variance is whithing the PSI requirement, as for 
 
 ## Study Design: MechaCar vs Competition
 
-**Comparisson Metrics:**
+- **Comparisson Metrics:**
 
 - Maintenance cost
 - Safety Feature Rating
@@ -52,14 +52,14 @@ Lot 1 and Lot 2 shows that the Variance is whithing the PSI requirement, as for 
 - Drive Package
 
 
--**Hypothesis: Null and Alternative**
+- **Hypothesis: Null and Alternative**
 
 - Null Hypothesis (Ho): No statistical difference between MechaCar fuel efficiency and the fuel efficiency of all other comparable vehicles.
 
 - Alternative Hypothesis (Ha): Statistical difference between the fuel efficiency of MechaCar versus the other cars.
 
 
--**Statistical Tests**
+- **Statistical Tests**
 
 A statistical test to compare the data between companies is a one-sample t-test, the data of the population will be all comparable vehicles. An example of data required to perfom the test is the fuel efficiency of the population.
 
