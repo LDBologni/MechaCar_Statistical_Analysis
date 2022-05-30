@@ -8,7 +8,7 @@ The results show that the ground clearance and vehicle length have a significant
 
 - Is the slope of the linear model considered to be zero? Why or why not?
 
-The p-Value for this model is 5.35e-11, is a small number than could be assumed a significance level of 0.05%. Indicating that there is sufficient evidence to reject the null hypothesis.
+The p-Value for this model is 5.35e-11, is a small number that indicates that there is sufficient evidence to reject the null hypothesis.
 
 - Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 
